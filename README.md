@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArdesCZ
 - 👀 I’m interested in IT, games, reading
 - 🌱 I’m currently learning PHP, Nette, javaScript, jQuery
-- 💞️ I’m looking to collaborate on this repos is only testing
+- 💞️ I’m not looking to collaborate on this repos because repos is only for testing
 - 📫 How to reach me only chat
 
 <!---
